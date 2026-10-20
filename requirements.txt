@@ -1,0 +1,5 @@
+tensorflow-cpu>=2.16,<2.22
+gradio>=4.44
+numpy
+pillow
+matplotlib
